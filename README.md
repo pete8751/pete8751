@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an image upscaling web application<br>👯 I’m looking to work on interesting and useful web projects<br>🤝 I’m interested in AI, Data-Science, and Computer Theory<br>🌱 I’m currently learning E-Commerce Deployment and React<br>⚡ Excited to join github<br>
+🔭 I’m currently working on an image upscaling web application<br>👯 I’m looking to work on interesting and useful web projects<br>🤝 I’m interested in AI, Data-Science, and Computer Theory<br>🌱 I’m currently learning E-Commerce Deployment and React<br>⚡ Excited to push boundaries<br>
 
 Learn more about me on my personal web portfolio! https://pete8751.github.io/peter/
 
