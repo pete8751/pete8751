@@ -1,7 +1,8 @@
 # Hi, I'm Peter 👋
 
 I'm a Computer Science and Math student at the University of Toronto.  
-Welcome to my GitHub! Here are a few projects I've been working on:
+I'm interested in low level programming, and theoretical machine learning.
+Here are a few projects I've been working on:
 
 ## 🔹 Systems Programming Projects
 C/C++ projects exploring networking, concurrency, and OS concepts: IPv4 Router, Event-Driven Server, Multithreading Library, and more.
