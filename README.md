@@ -2,7 +2,7 @@
 
 I'm a Computer Science and Math student at the University of Toronto.  
 I'm interested in low level programming, and theoretical machine learning.
-Here are a few projects I've been working on:
+Here are a few projects I've worked on:
 
 ## 🔹 Systems Programming Projects
 C/C++ projects exploring networking, concurrency, and OS concepts: IPv4 Router, Event-Driven Server, Multithreading Library, and more.
